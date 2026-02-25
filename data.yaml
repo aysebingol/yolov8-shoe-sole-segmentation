@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['shoes']
+
+roboflow:
+  workspace: hasan-vimtf
+  project: new_dataset-hzjpg
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hasan-vimtf/new_dataset-hzjpg/dataset/7
