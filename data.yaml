@@ -1,0 +1,6 @@
+names:
+- shoe-sole
+nc: 1
+path: /content/datasets/shoe
+train: train/images
+val: val/images
